@@ -9,5 +9,12 @@ It is simple twitter clone school project
 - View a timeline of tweets from users you are following
 - View a user profile with their tweets
 
+## How to use it
+- clone on your local machine 
+- create enviroment using the command ``` pipenv shell ```
+- install django ``` pipenv django ```
+- install pillow ``` pipenv pillow ```
+- run server ``` python manage.py runserver ```
+
 ### Screenshot of demo
 ![img](image.jpg)
