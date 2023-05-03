@@ -14,6 +14,7 @@ It is simple twitter clone school project
 - create enviroment using the command ``` pipenv shell ```
 - install django ``` pipenv django ```
 - install pillow ``` pipenv pillow ```
+- Run the database migrations ``` python manage.py migrate ```
 - run server ``` python manage.py runserver ```
 
 ### Screenshot of demo
